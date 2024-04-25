@@ -1,0 +1,3 @@
+/Users/Neponel/CLionProjects/PrakSklad/cmake-build-debug/CMakeFiles/PrakSklad.dir
+/Users/Neponel/CLionProjects/PrakSklad/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Neponel/CLionProjects/PrakSklad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
